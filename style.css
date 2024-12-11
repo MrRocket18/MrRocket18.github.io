@@ -125,6 +125,6 @@ img {
     margin: 0.25rem auto;
   }
   .image-container img {
-    max-width: 2rem;
+    max-width: 10rem;
   }
 }
